@@ -1,4 +1,4 @@
-@@ -0,0 +1,29 @@
+
 print ("Hello world")
 name = "Шнек"
 age = 52
